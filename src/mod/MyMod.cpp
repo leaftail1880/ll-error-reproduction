@@ -1,6 +1,7 @@
 #include "mod/MyMod.h"
 
 #include "ll/api/mod/RegisterHelper.h"
+#include "ll/world/level/Level.h"
 
 namespace my_mod {
 
